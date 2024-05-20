@@ -1,4 +1,4 @@
-# URL Shortener
+# URL Shortener (LOCAL)
 
 A simple URL shortener application built with Flask and SQLite.
 
